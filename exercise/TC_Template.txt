@@ -1,0 +1,59 @@
+테스트 케이스 작성 양식
+=======================
+
+작성 규칙
+- SRS ID에는 테스트하려는 요구사항 ID를 적는다.
+- Input은 항목=값 형식으로 적고, 여러 값은 쉼표로 구분한다.
+- Expected Result에는 요구사항을 기준으로 기대되는 출력만 적는다.
+- Actual Result, Result, Severity, Priority는 HTML 실행 후 작성한다.
+- Severity, Priority는 Result=Fail일 때만 작성한다.
+
+결과 값
+- Result: Pass, Fail, N/A, Not Tested
+- Severity: Critical, Major, Minor, Info
+- Priority: P1, P2, P3, P4
+
+반복 작성 양식
+-------------
+
+[TC-001]
+TC ID:
+SRS ID:
+Purpose:
+Pre-condition:
+Test Procedure:
+Input:
+Expected Result:
+Remarks:
+Actual Result:
+Result: Not Tested
+Severity:
+Priority:
+
+[TC-002]
+TC ID:
+SRS ID:
+Purpose:
+Pre-condition:
+Test Procedure:
+Input:
+Expected Result:
+Remarks:
+Actual Result:
+Result: Not Tested
+Severity:
+Priority:
+
+[TC-003]
+TC ID:
+SRS ID:
+Purpose:
+Pre-condition:
+Test Procedure:
+Input:
+Expected Result:
+Remarks:
+Actual Result:
+Result: Not Tested
+Severity:
+Priority:
